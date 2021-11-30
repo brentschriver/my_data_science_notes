@@ -56,3 +56,11 @@ axis = 1 -> Performs aggregate functions across the row as opposed to down the c
 
 11.18.21
 Still on the road. Haven't been able to get good internet connection. I was able to catch some of today's lesson. I learned that decision trees are used to generate a prediction. At each node of a decision tree an evaluation is made based on a specified number of variables. The depth of the decision tree represents the number of questions asked about the data. 
+
+11.27.21
+Made our way back from California, but I'm still working. I finally am able to get some alone time to study, but it's already half past three in the afternoon and I have to pick my wife up at 5. I'll try to get in as much studying as possible.
+
+11.29.21
+I just completed the first full-length Data Science project. Here is one thing I did well and one thing I would like to do better:
+* I think one thing I did well was speak confidently. Even though I didn't have all the requirements for the project, I presented what I had confidently.
+* One thing I wish I did was complete the entire project. I wish I developed classification models so I can get a better understanding of how they work.
