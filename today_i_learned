@@ -64,3 +64,13 @@ Made our way back from California, but I'm still working. I finally am able to g
 I just completed the first full-length Data Science project. Here is one thing I did well and one thing I would like to do better:
 * I think one thing I did well was speak confidently. Even though I didn't have all the requirements for the project, I presented what I had confidently.
 * One thing I wish I did was complete the entire project. I wish I developed classification models so I can get a better understanding of how they work.
+
+12.02.21 Thursday
+The Data Science process as I know it as of now:
+
+1. Examine target dataset using SQL.
+2. Nest the SQL query into a python function that will be used to acquire the data.
+3. Search the dataset for any null values and investigate why those values are null (don't just drop them)
+4. Decide whether to drop records or impute values
+5. Make sure values are stored as the correct data type.
+6. Create a Python function that will complete all these tasks.
